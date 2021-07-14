@@ -6,6 +6,10 @@ const mixinMarkdownAndKatex = {
     computed: {
         markdown () {
             return md
+
+
+
+
         }
     },
     methods: {
